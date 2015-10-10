@@ -1,0 +1,2 @@
+# big-data-and-hadoop
+I am trying to build up a big data platform to receive and store in Hadoop large amount of heterogeneous data like (documents,videos,images,sensors data, etc) then implement classification process. So what architecture can help me as I’m currently using VMware VSphere EXSi Hadoop Habse Thrift XAMPP All these working fine but I don’t know how to receive a large amount of data and how to store the data because I discovered that Hbase is a column-oriented data base and it’s not data warehouse.
